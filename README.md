@@ -1,5 +1,9 @@
 # alpha-selfbot
 Alphaself bot leaked by me
+# POURQUOI LE LEAK?
+il m'a fait un coup de pute
+## TU VA MAINTENIR LE SELF?
+je posterais souvent des vr plus récente oui
 ## INSTALLATION & UTILISATION
 
 **Vous devez vous munir de nodejs v14 et c'est tout !**
